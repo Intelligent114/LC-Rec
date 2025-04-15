@@ -63,4 +63,3 @@ def hit_k(topk_results, k):
         if sum(res) > 0:
             hit += 1
     return hit
-

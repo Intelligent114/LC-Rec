@@ -1,0 +1,9 @@
+torch==1.13.1+cu117
+accelerate
+bitsandbytes
+deepspeed
+evaluate
+peft
+sentencepiece
+tqdm
+transformers
